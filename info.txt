@@ -1,0 +1,15 @@
+# https://medium.com/@jagadeesan.ganesh/mastering-llm-ai-agents-building-and-using-ai-agents-in-python-with-real-world-use-cases-c578eb640e35
+# https://learnwithhasan.com/blog/create-ai-agents-with-python/
+# https://python.langchain.com/docs/tutorials/agents/
+# https://b-eye.com/blog/how-to-build-an-ai-agent-in-python/
+# https://medium.com/@dey.mallika/building-gen-ai-agents-with-python-a-beginners-guide-bc3f842d99e7
+# https://python.langchain.com/docs/tutorials/chatbot/
+# https://docs.pytorch.org/tutorials/beginner/chatbot_tutorial.html
+# https://www.alltius.ai/glossary/complete-guide-to-build-your-ai-chatbot-with-nlp-in-python
+# https://dev.to/shreshthgoyal/create-your-own-ai-rag-chatbot-a-python-guide-with-langchain-dfi
+# https://www.geeksforgeeks.org/python/build-an-ai-chatbot-in-python-using-cohere-api/
+# https://quidget.ai/blog/ai-automation/how-to-build-an-ai-chatbot-with-python-a-beginners-guide/
+# https://docs.slack.dev/tools/bolt-python/tutorial/ai-chatbot/
+# https://medium.com/@BenjaminExplains/build-an-ai-chatbot-in-python-easy-and-free-8667b7b4232c
+# https://learnpython.com/blog/ai-chatbot-in-python/
+# https://code-b.dev/blog/ai-chat-bot-with-python
