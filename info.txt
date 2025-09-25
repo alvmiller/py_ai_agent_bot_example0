@@ -13,3 +13,13 @@
 # https://medium.com/@BenjaminExplains/build-an-ai-chatbot-in-python-easy-and-free-8667b7b4232c
 # https://learnpython.com/blog/ai-chatbot-in-python/
 # https://code-b.dev/blog/ai-chat-bot-with-python
+# https://medium.com/@dvasquez.422/building-a-simple-ai-agent-1e2f2b369b25
+# https://medium.com/@varunkukade999/part-1-build-your-first-ai-agent-chatbot-with-langchain-and-langgraph-in-python-3b370bb6e7c1
+# https://medium.com/@varunkukade999/part-2-build-your-first-ai-agent-chatbot-with-langchain-and-langgraph-in-python-dc9b4cffce06
+# https://medium.com/@varunkukade999/part-3-build-your-first-ai-agent-chatbot-with-langchain-and-langgraph-in-python-5d1716098b7d
+# https://medium.com/@varunkukade999/i-built-my-own-ai-coding-assistant-in-python-8e9079e8b9fc
+# https://www.freecodecamp.org/news/how-to-build-an-ai-study-planner-agent-using-gemini-in-python/
+# https://webflow.copilotkit.ai/blog/agents-101-how-to-build-your-first-ai-agent-in-30-minutes
+# https://towardsdatascience.com/ai-agents-from-zero-to-hero-part-1/
+# https://towardsdatascience.com/ai-agents-from-zero-to-hero-part-2/
+# https://towardsdatascience.com/ai-agents-from-zero-to-hero-part-3/
