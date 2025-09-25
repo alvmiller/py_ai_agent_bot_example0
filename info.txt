@@ -47,3 +47,38 @@
 # src/
 
 #########################################################################
+
+# https://dev.to/shreshthgoyal/create-your-own-ai-rag-chatbot-a-python-guide-with-langchain-dfi
+
+# mkdir rag-chatbot
+# cd rag-chatbot
+# python -m venv venv
+# source venv/bin/activate
+
+# pip install -r requirements.txt
+
+# pip install streamlit
+# pip install -U langchain-community
+
+# streamlit run app.py
+
+# /src-TBD
+
+#########################################################################
+
+# https://medium.com/@BenjaminExplains/build-an-ai-chatbot-in-python-easy-and-free-8667b7b4232c
+
+# pip install google.generativeai
+
+# /src1
+
+#########################################################################
+
+# https://learnpython.com/blog/ai-chatbot-in-python/
+
+#########################################################################
+
+# https://www.freecodecamp.org/news/how-to-build-an-ai-study-planner-agent-using-gemini-in-python/
+
+#########################################################################
+
