@@ -59,6 +59,7 @@
 
 # pip install streamlit
 # pip install -U langchain-community
+# pip install langchain-google-genai
 
 # streamlit run app.py
 
