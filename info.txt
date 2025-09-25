@@ -1,3 +1,5 @@
+#########################################################################
+
 # https://medium.com/@jagadeesan.ganesh/mastering-llm-ai-agents-building-and-using-ai-agents-in-python-with-real-world-use-cases-c578eb640e35
 # https://learnwithhasan.com/blog/create-ai-agents-with-python/
 # https://python.langchain.com/docs/tutorials/agents/
@@ -23,3 +25,25 @@
 # https://towardsdatascience.com/ai-agents-from-zero-to-hero-part-1/
 # https://towardsdatascience.com/ai-agents-from-zero-to-hero-part-2/
 # https://towardsdatascience.com/ai-agents-from-zero-to-hero-part-3/
+
+# https://stackoverflow.com/questions/77727695/google-gemini-api-error-defaultcredentialserror-your-default-credentials-were
+# https://cloud.google.com/docs/authentication/application-default-credentials
+# https://github.com/google-gemini/deprecated-generative-ai-python/issues/114
+
+# https://lukianovihor.medium.com/python-environment-variables-using-dotenv-library-71529ad0e9c3
+
+# https://python.langchain.com/docs/integrations/chat/google_generative_ai/
+
+#########################################################################
+
+# https://medium.com/@dvasquez.422/building-a-simple-ai-agent-1e2f2b369b25
+
+# https://aistudio.google.com/welcome
+# python3 -m venv venv
+# source venv/bin/activate
+# pip install -r requirements.txt
+# python3 main.py
+
+# src/
+
+#########################################################################
