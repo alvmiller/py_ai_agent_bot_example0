@@ -61,10 +61,12 @@
 # pip install -U langchain-community
 # pip install langchain-google-genai
 # pip install sentence-transformers
+# pip install faiss-gpu
+# pip install faiss-cpu
 
 # streamlit run app.py
 
-# src-TBD/
+# src0/
 
 #########################################################################
 
