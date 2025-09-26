@@ -60,6 +60,7 @@
 # pip install streamlit
 # pip install -U langchain-community
 # pip install langchain-google-genai
+# pip install sentence-transformers
 
 # streamlit run app.py
 
